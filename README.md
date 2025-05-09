@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+- 🌱 I’m currently learning how to make a personal academic webpage [micromole.github.io](https://micromole.github.io/)
 <!--
 **micromole/micromole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

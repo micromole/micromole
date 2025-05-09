@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micromole&show_icons=true&locale=en&layout=compact" alt="micromole" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micromole&show_icons=true&locale=en" alt="micromole" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micromole&" alt="micromole" /></p>
